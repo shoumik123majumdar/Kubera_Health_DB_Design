@@ -1,0 +1,33 @@
+name,extractedValue
+Added Plan Products,
+Agreement Type,Fee for Service
+Appeals Policies,
+Appeals Timeliness,
+Chargemaster Policies,
+Claims Submission Timely Filing,120 days (days of discharge/service)
+Commercial Plan Products,
+Continuity of Care Language,
+Contracted Locations,
+Contracted NPI,"1639401987, 1790778488, 1457470700"
+Contracted Tax ID,"55-0883859, 80-0366871"
+Dispute Resolution/Arbitration,Plan shall attempt to respond to all disputes within 30 days of receipt; written demand for arbitration initiates arbitration.
+Effective Date,1-Dec-17
+Expiration of Initial Term,31-Dec-17
+First or Second Dollar,Second Dollardf
+Government Products,"Medicare, Medi-Cal"
+Initial Term,1 year
+Material Change,
+Maximum Reimbursement Amount,"$3,500 per day (Stop Loss); $5,200 per day (All other inpatient services); $5,200 per diem (Outpatient Surgery - 1st procedure); $3,950 per case (Outpatient Surgery - multiple procedures)"
+Medical Necessity,
+Medical Record Fees Audits,
+Miscellaneous Notes,
+Payor Name,Choice Physicians Network
+Percentage of Billed Charges Reimbursed,"65% of billed charges, not to exceed $5200 per day  (inpatient). 65% of billed charges, not to exceed $3500 per day thereafter (outpatient)"
+Recoupment Language,"notice issued within 365 days, return payment due within 45 days"
+Renewal Clause,Auto-renew; 1 year terms
+Stop Loss Threshold,"$100,000"
+Supplemental Agreement Date,
+Termination Notice Period,ninety (90) days
+Timely Payment,sixty (60) calendar days
+Utilization Management,
+PDF_filename,'s3://sample-bucket-name/documents/2025/02/contract.pdf'
